@@ -1,0 +1,22 @@
+# TODO List for MERN Todo App
+
+- [x] Create backend folder structure
+- [x] Create backend package.json
+- [x] Create backend server.js
+- [x] Create backend .env
+- [x] Create backend models (User.js, Task.js)
+- [x] Create backend routes (auth.js, tasks.js)
+- [x] Create backend controllers (authController.js, taskController.js)
+- [x] Create backend middleware (authMiddleware.js)
+- [x] Create frontend folder structure
+- [x] Create frontend package.json
+- [x] Create frontend src/index.js
+- [x] Create frontend src/App.js with auto-logout
+- [x] Create frontend pages (Signup.js, Login.js, TaskManager.js)
+- [x] Create frontend public/index.html
+- [ ] Install backend dependencies
+- [ ] Install frontend dependencies
+- [ ] Set up MongoDB connection
+- [ ] Test authentication endpoints
+- [ ] Test task CRUD operations
+- [ ] Test auto-logout functionality

@@ -1,0 +1,26 @@
+# Ignore all files with the .log extension
+*.log
+
+# Ignore the entire 'node_modules' directory
+node_modules/
+
+# Ignore the 'build' directory
+build/
+
+# Ignore the '.env' file (common for environment variables)
+.env
+
+# Ignore specific IDE-related directories
+.vscode/
+.idea/
+
+# Ignore all files named 'temp.txt' anywhere in the repository
+**/temp.txt
+
+# Ignore all files with a .tmp extension in the 'tmp' directory
+tmp/*.tmp
+
+# Exclude a specific file from a general ignore rule
+# (e.g., ignore all .log files except 'important.log')
+*.log
+!important.log
